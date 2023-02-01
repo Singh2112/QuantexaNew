@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8040e640-3eb9-4037-92cd-934fb15bd9e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scala/quantexaSolutions/QuantexaMain.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scala/quantexaSolutions/Solution1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scala/quantexaSolutions/Solution2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scala/quantexaSolutions/Solution3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scala/quantexaSolutions/Solution4.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/scala/quantexaSolutions/SolutionExtraMarks.scala" afterDir="false" />
-    </list>
+    <list default="true" id="8040e640-3eb9-4037-92cd-934fb15bd9e7" name="Changes" comment=" Quantexa resources sol1 and 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,11 +38,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Raghavendra/Desktop/SPARK/ScalaQuantexa/src/test/scala"
+    "last_opened_file_path": "C:/Users/Raghavendra/Desktop/SPARK/ScalaQuantexa/src/main/resources"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Raghavendra\Desktop\SPARK\ScalaQuantexa\src\main\resources" />
       <recent name="C:\Users\Raghavendra\Desktop\SPARK\ScalaQuantexa\src\test\scala" />
       <recent name="C:\Users\Raghavendra\Desktop\SPARK\ScalaQuantexa\src\main\scala" />
     </key>
@@ -73,6 +57,26 @@
       <option name="presentableId" value="Default" />
       <updated>1675226472503</updated>
     </task>
+    <task id="LOCAL-00001" summary="Quantexa">
+      <created>1675226738492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675226738492</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" Quantexa resources sol1 and 2">
+      <created>1675226994697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675226994697</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Quantexa" />
+    <MESSAGE value=" Quantexa resources sol1 and 2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Quantexa resources sol1 and 2" />
   </component>
 </project>
